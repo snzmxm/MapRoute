@@ -56,9 +56,9 @@
 		AF58BCD929DB07B1001B994F /* MapRoute */ = {
 			isa = PBXGroup;
 			children = (
-				AF58BCF129DB2FE2001B994F /* Controller */,
 				AF58BCEE29DB07DD001B994F /* Aplications */,
 				AF58BCF029DB07FD001B994F /* View */,
+				AF58BCF129DB2FE2001B994F /* Controller */,
 				AF58BCEF29DB07EB001B994F /* SupportingFiles */,
 			);
 			path = MapRoute;
